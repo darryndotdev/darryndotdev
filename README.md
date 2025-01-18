@@ -28,9 +28,9 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/-Vite-7f54b3?logo=vite&logoColor=white&style=flat-square" alt="Vite" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Parcel-7f54b3?logo=parcel&logoColor=white&style=flat-square" alt="Parcel.js" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-npm-7f54b3?logo=&logoColor=white&style=flat-square" alt="Node Package Manager" height="30" />
-<img style="margin: 10px" src="https://img.shields.io/badge/-React%20Router-7f54b3?logo=reactrouter&logoColor=white&style=flat-square" alt="React Router" height="30" />
 </div>
 <div align="left">
+<img style="margin: 10px" src="https://img.shields.io/badge/-React%20Router-7f54b3?logo=reactrouter&logoColor=white&style=flat-square" alt="React Router" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Markdown-7f54b3?logo=markdown&logoColor=white&style=flat-square" alt="Markdown" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Jira-7f54b3?logo=jira&logoColor=white&style=flat-square" alt="JIRA" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-Confluence-7f54b3?logo=confluence&logoColor=white&style=flat-square" alt="Confluence" height="30" />

@@ -5,7 +5,7 @@
 // &nbsp;&nbsp;5+ years professional experience of direct, e-mail, retail and content marketing<br>
 // &nbsp;&nbsp;Qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)
 
-## Tech 
+## 📱 Tech 
 <div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-HTML-7f54b3?logo=html5&logoColor=white&style=flat-square" alt="HTML" height="30" />
 <img style="margin: 10px" src="https://img.shields.io/badge/-CSS-7f54b3?logo=css3&logoColor=white&style=flat-square" alt="CSS" height="30" />
@@ -17,7 +17,7 @@
 <img style="margin: 10px" src="https://img.shields.io/badge/-Tailwind%20CSS-7f54b3?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS" height="30" />
 </div>
 
-## Tools
+## 🛠️ Tools
 
 <div align="left">
 <img style="margin: 10px" src="https://img.shields.io/badge/-Git-7f54b3?logo=git&logoColor=white&style=flat-square" alt="Git" height="30" />

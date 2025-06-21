@@ -1,10 +1,10 @@
 ## 👨‍💻 About me
 
-// &nbsp;&nbsp;Currently honing my Front-end development skills <br>
-// &nbsp;&nbsp;Certified UI professional with the [UX Design Institute](https://www.uxdesigninstitute.com/)<br>
-// &nbsp;&nbsp;5+ years professional experience collaborating in cross-functional Agile teams with engineers, ux/ui and content designers<br>
+// &nbsp;&nbsp;Recently certified UI professional with the [UX Design Institute](https://www.uxdesigninstitute.com/) and a qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)<br>
+// &nbsp;&nbsp;6+ years professional experience collaborating in cross-functional Agile teams with engineers, ux/ui and content designers<br>
 // &nbsp;&nbsp;5+ years professional experience of direct, e-mail, retail and content marketing<br>
-// &nbsp;&nbsp;Qualified direct & digital marketer with [the IDM](https://www.theidm.com/) and [CIM](https://www.cim.co.uk/)
+// &nbsp;&nbsp;Currently honing my Front-end development skills <br>
+
 
 ## 📱 Tech 
 <div align="left">

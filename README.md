@@ -39,7 +39,7 @@ I'm a self-taught front-end developer based in the South West of the UK, with a 
 
 ### Blog
 
-- [Some of most the useful array methods in JavaScript](https://darryn.dev/articles/useful-array-methods-in-javascript/)
+- [Some of the most useful array methods in JavaScript](https://darryn.dev/articles/useful-array-methods-in-javascript/)
 - [What's the difference between named and default exports?](https://darryn.dev/articles/named-vs-default-exports/)
 - [Deploying a Vite app to GitHub pages](https://darryn.dev/articles/deploying-vite-app-to-github-pages/)
 

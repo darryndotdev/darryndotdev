@@ -1,9 +1,16 @@
 # Hi! I'm Darryn 👋
 
-### About me
+### About
 
-I'm a self-taught front-end developer with a strong foundation in HTML, CSS, JavaScript and React. As a certified UI professional and CMS specialist, I focus on creating accessible, user-focussed web experiences. I share my learning journey to reinforce my skills and assist others on a similar path. Currently, I'm honing my Front-end development skills and expanding my expertise by pursuing the AWS Cloud Practitioner certification.
+I'm a self-taught front-end developer with a strong foundation in HTML, CSS, JavaScript and React. As a certified UI professional and CMS expert, I focus on creating accessible, user-centric web experiences. I also share my learning journey to reinforce my knowledge and assist others on a similar path.
 
+I'm honing my front-end development skills with the aim change profession full-time.
+
+### News
+
+I recently passed edX's [W3Cx Web Accessibility](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility) course - it was incredibly eye-opening to say the least.
+
+Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) certification.
 
 ### Tech
 <div align="left">

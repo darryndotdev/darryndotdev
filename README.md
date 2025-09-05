@@ -50,4 +50,7 @@ Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner]
 - [Deploying a Vite app to GitHub pages](https://darryn.dev/articles/deploying-vite-app-to-github-pages/)
 
 ### Let's connect
-&nbsp;&nbsp;Reach me at [darryn.dev](https://www.darryn.dev/contact)
+Contact: [darryn.dev](https://www.darryn.dev/contact)
+
+CodePen: [@darryndotdev](https://codepen.io/darryndotdev)
+

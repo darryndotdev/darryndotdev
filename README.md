@@ -43,6 +43,10 @@ Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner]
 <img style="margin: 10px; height: 32px;" src="https://img.shields.io/badge/-Slack-0d1117?logo=slack&logoColor=white&style=flat-square" alt="Slack" height="32" />
 </div>
 
+### Projects
+
+- Text to HTML: [Live demo](https://darryndotdev.github.io/text-to-html/) / [Repo](https://github.com/darryndotdev/text-to-html)
+
 ### Blog
 
 - [Some of the most useful array methods in JavaScript](https://darryn.dev/articles/useful-array-methods-in-javascript/)

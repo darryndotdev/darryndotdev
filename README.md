@@ -46,6 +46,7 @@ Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner]
 ### Projects
 
 - Text to HTML: [Live demo](https://darryndotdev.github.io/text-to-html/) / [Repo](https://github.com/darryndotdev/text-to-html)
+- Todo app: [Live demo](https://darryndotdev.github.io/todo-app/) / [Repo](https://github.com/darryndotdev/todo-app)
 - Browser extensions manager ui: [Live demo](https://darryndotdev.github.io/browser-extensions-manager-ui/) / [Repo](https://github.com/darryndotdev/browser-extensions-manager-ui)
 
 ### Blog

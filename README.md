@@ -46,7 +46,7 @@ Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner]
 ### Projects
 
 - Task manager app: [Live demo](https://darryndotdev.github.io/task-manager-app/) / [Repo](https://github.com/darryndotdev/task-manager-app)
-- Text to HTML: [Live demo](https://darryndotdev.github.io/text-to-html/) / [Repo](https://github.com/darryndotdev/text-to-html)
+- Property listing ui: [Live demo](https://property-listing-rouge.vercel.app/) / [Repo](https://github.com/darryndotdev/property-listing)
 - Browser extensions manager ui: [Live demo](https://darryndotdev.github.io/browser-extensions-manager-ui/) / [Repo](https://github.com/darryndotdev/browser-extensions-manager-ui)
 
 ### Blog

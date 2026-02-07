@@ -49,15 +49,7 @@ Not one to rest on my laurels, I'm now working through [AWS' Cloud Practitioner]
 - Property listing ui: [Live demo](https://property-listing-rouge.vercel.app/) / [Repo](https://github.com/darryndotdev/property-listing)
 - Browser extensions manager ui: [Live demo](https://darryndotdev.github.io/browser-extensions-manager-ui/) / [Repo](https://github.com/darryndotdev/browser-extensions-manager-ui)
 
-### Blog
-
-- [Some of the most useful array methods in JavaScript](https://darryn.dev/articles/useful-array-methods-in-javascript/)
-- [What's the difference between named and default exports?](https://darryn.dev/articles/named-vs-default-exports/)
-- [Deploying a Vite app to GitHub pages](https://darryn.dev/articles/deploying-vite-app-to-github-pages/)
-
 ### Let's connect
 
-- Contact: [darryn.dev](https://www.darryn.dev/contact)
 - CodePen: [@darryndotdev](https://codepen.io/darryndotdev)
 - Codewars: [@darryndotdev](https://www.codewars.com/users/darryndotdev)
-

@@ -2,9 +2,7 @@
 
 ### About
 
-I'm a self-taught front-end developer with a strong foundation in HTML, CSS, JavaScript and React. As a certified UI professional and CMS expert, I focus on creating accessible, user-centric web experiences. I also share my learning journey to reinforce my knowledge and assist others on a similar path.
-
-I'm honing my front-end development skills with the aim to change profession full-time.
+I'm a self-taught frontend developer with a strong foundation in HTML, CSS, JavaScript and React. As a certified UI professional and CMS expert - I focus on creating accessible, user-centric web experiences.
 
 ### News
 

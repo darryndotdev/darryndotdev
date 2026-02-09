@@ -2,9 +2,9 @@
 
 ### About
 
-I'm a self‑taught frontend developer who transitioned into engineering through years of focused, self‑directed learning. What began as curiosity grew into a commitment to mastering HTML, CSS, JavaScript and React - and ultimately led to securing my first frontend engineer role.
+I'm a self‑taught frontend developer who transitioned into engineering through years of focused, self‑directed learning. What began as curiosity grew into a commitment to mastering HTML, CSS, JavaScript and React and ultimately led to securing my first frontend engineer role.
 
-Alongside hands‑on project building, I’ve invested heavily in levelling up my skills: earning a UI Design Professional Certificate, completing W3Cx’s Web Accessibility course, and exploring topics like DevOps and cloud fundamentals. I’m passionate about creating accessible, user‑centric interfaces and building tools that make the web (and teams) better.
+Alongside hands‑on project building, I’ve invested heavily in levelling up my skills: earning a UI Design Professional Certificate, completing W3Cx’s Web Accessibility course and exploring topics like DevOps and cloud fundamentals. I’m passionate about creating accessible, user‑centric interfaces and building tools that make the web (and teams) better.
 
 ### News
 
